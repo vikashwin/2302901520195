@@ -1,0 +1,34 @@
+# Node.js
+node_modules/
+npm-debug.log*
+
+# Java
+target/
+*.class
+
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Environment
+.env
+
+# Build
+dist/
+build/
+
+# Maven
+.mvn/wrapper/maven-wrapper.jar
+
+# OS
+Thumbs.db
