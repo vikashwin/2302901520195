@@ -11,5 +11,6 @@ module.exports = {
     ACCESS_CODE: "sdWWgc",
 
     CLIENT_ID: "<generated_client_id>",
+    
     CLIENT_SECRET: "<generated_client_secret>"
 };

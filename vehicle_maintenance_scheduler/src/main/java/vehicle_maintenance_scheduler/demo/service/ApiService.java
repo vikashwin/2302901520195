@@ -12,8 +12,7 @@ public class ApiService {
 
     public Depot[] getDepots() {
 
-        String url =
-                "http://4.224.186.213/evaluation-service/depots";
+        String url = "http://4.224.186.213/evaluation-service/depots";
 
         return restTemplate
                 .getForObject(url, Depot[].class);
