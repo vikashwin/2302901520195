@@ -10,7 +10,6 @@ module.exports = {
 
     ACCESS_CODE: "sdWWgc",
 
-    CLIENT_ID: "b7b51878-3ecb-4b13-b65e-c10602f212b0",
-
-    CLIENT_SECRET: "HACGNkGBZyfDbJuZ"
+    CLIENT_ID: "<generated_client_id>",
+    CLIENT_SECRET: "<generated_client_secret>"
 };
