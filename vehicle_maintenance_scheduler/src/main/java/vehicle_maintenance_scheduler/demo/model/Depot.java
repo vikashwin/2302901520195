@@ -6,5 +6,6 @@ import lombok.Data;
 public class Depot {
 
     private int id;
+    
     private int mechanicHours;
 }
