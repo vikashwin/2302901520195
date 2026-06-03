@@ -11,9 +11,6 @@ public class SchedulerService {
 
     public List<Vehicle> schedule(List<Vehicle> vehicles, int mechanicHours) {
 
-        return KnapsackUtil.optimize(
-                vehicles,
-                mechanicHours
-        );
+        return KnapsackUtil.optimize(vehicles, mechanicHours );
     }
 }
